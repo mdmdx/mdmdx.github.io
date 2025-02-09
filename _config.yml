@@ -164,6 +164,7 @@ footer:
 
 
 # Reading Files
+include: ["_pages"]
 include:
   - .htaccess
   - _pages
@@ -327,3 +328,9 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
