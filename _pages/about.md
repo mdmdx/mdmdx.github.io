@@ -20,9 +20,12 @@ Por eso llevo un tiempo dándole vueltas a iniciar de alguna manera un lugar don
 
 En cuanto a seguridad y privacidad, cada vez me estoy volviendo más desconfiado de las Big Tech. En otras web he usado Google Analytics, y es sencillamente terrorífica la cantidad de información que se podía obtener de los usuarios que accedían. Por eso, decidí mandar las analíticas, estadísticas y telemetría a la mierda y centrarme en lo que importa.
 
-Por eso no encontrarás un banner de cookies, ni un anuncio, ni un enlace de afiliado. Mi intención no es ganar dinero ni mucho menos hacerle ganar dinero a Amazon, Meta, o Google. Sí aun así te empeñas en darme tu dinero, puedes invitarme a un café en Ko-fi [aquí](https://ko-fi.com/mdmdx). 
+Por eso no encontrarás un banner de cookies, ni un anuncio, ni un enlace de afiliado. Mi intención no es ganar dinero ni mucho menos hacerle ganar dinero a Amazon, Meta, o Google. Sí aun así te empeñas en darme tu dinero, puedes invitarme a un café en Ko-fi [aquí](https://ko-fi.com/mdmdx). Utilizo este servicio para todo aquel que quiera apoyar este proyecto. El típico euro que te encuentras en el sofá? Me vale. Dona lo que quieras y puedas. Utiliza el enlace que ves abajo de la tacita y sigue las instrucciones.
 
 Los comentarios se gestionan por medio de [Giscus](https://giscus.app/es) que es una aplicación Open-Source, y creo que utiliza una cookie para mantener tu sesión iniciada y poder enviarme tus preciosos comentarios. Simplemente puedes cerrar sesión en cualquier momento, pero entiende que hago esto para que no se me llene el correo de bots vietnamitas. Si tienes alguna duda de su legitimidad te invito a revisar su código.
 
 Todo en este blog está disponible de manera totalmente abierta en [GitHub](https://github.com/mdmdx/mdmdx.github.io) y puedes revisar el código, hacer un fork, abrir un pull request o lo que te de la gana. La web está alojada en GitHub Pages y utilizo Jekyll como generador del sitio con el tema [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/). Bonito verdad?
+
+Por cierto, mi logo temporal requiere atribución, y como buen seguidor de las licencias:
+<a href="https://www.flaticon.com/free-icons/paper-plane" title="paper plane icons">Paper plane icons created by Smashicons - Flaticon</a>
 
