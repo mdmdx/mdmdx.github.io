@@ -10,8 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-    - title : "Sobre mí"
-      url: /about/
     - title: "Categorías"
       url: /tags/
+    - title : "Sobre mí"
+      url: /about/
+    - title: "Travesía"
+      url: /tags/#travesía
+    
+    
     

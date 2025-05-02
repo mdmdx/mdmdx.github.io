@@ -336,3 +336,7 @@ defaults:
       layout: single
       author_profile: true
 
+collections:
+  travesia:
+    output: true
+    permalink: /:collection/:path/
