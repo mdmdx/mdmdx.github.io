@@ -6,7 +6,7 @@ header:
     teaser: /assets/christine-roy-ir5MHI6rPg0-unsplash.jpg
 ---
 
-Después de un largo tiempo de inactividad, he vuelto con motivación para empezar un proyecto personal que creo que será bastante instructivo y de enriquecimiento cultural. Es totalmente rompedor con lo que vengo haciendo hasta ahora, pero como ya avisé, este blog sería una confluencia de mis gustos en cada momento. Podría perfectamente hacer este proyecto offline y reservarlo para mí, pero esta es una manera de llevar una cierta recurrencia y siempre existe la esperanza de ayudar a alguien. 
+dDespués de un largo tiempo de inactividad, he vuelto con motivación para empezar un proyecto personal que creo que será bastante instructivo y de enriquecimiento cultural. Es totalmente rompedor con lo que vengo haciendo hasta ahora, pero como ya avisé, este blog sería una confluencia de mis gustos en cada momento. Podría perfectamente hacer este proyecto offline y reservarlo para mí, pero esta es una manera de llevar una cierta recurrencia y siempre existe la esperanza de ayudar a alguien. 
 
 Muchas veces oímos hablar de países remotos que no sabríamos ni ubicar en el mapa. Y, especialmente para los estudiantes de ciencias, la geografía y la historia quedaron bastante en el pasado frente a las modalidades numéricas. Y es por esto, que buscando profundizar en nuestro lado polifacético he tenido una idea que, si bien ha sido explorada por muchos en el pasado, probablemente me ayude a tener una visión en mayor profundidad de la situación mundial.
 
